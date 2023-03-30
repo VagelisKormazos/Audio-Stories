@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><string name="app_name">Unipi_Audio_Stories</string>
+    <string name="title1">Bienvenue à la application Livre audio</string>
+    <string name="btw1">Vos statistiques</string>
+    <string name="btw2">Affichage</string>
+    <string name="btw3">Retour</string>
+    <string name="btw4">Voix</string>
+    <string name="favstory1">TVotre histoire préférée est  </string>
+    <string name="favstory2"> Avec  </string>
+    <string name="title2">Clics par histoire</string>
+    <string name="textPress">Appuyer sur le bouton play</string>
+</resources>

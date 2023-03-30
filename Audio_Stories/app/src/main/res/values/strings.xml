@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Unipi_Audio_Stories</string>
+    <string name="title1">Welcome to Audio Book App</string>
+    <string name="btw1">Your stats</string>
+    <string name="btw2">Display</string>
+    <string name="btw3">Go Back</string>
+    <string name="btw4">Voice</string>
+    <string name="favstory1">Your favorite story is </string>
+    <string name="favstory2"> With </string>
+    <string name="title2">Clicks by Story</string>
+    <string name="textPress">Press the play button</string>
+
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "717449852955",
+    "project_id": "unipi-audio-stories-956b9",
+    "storage_bucket": "unipi-audio-stories-956b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717449852955:android:1645658fe20b349e7820be",
+        "android_client_info": {
+          "package_name": "com.unipi.kormazos.unipi_audio_stories"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717449852955-41oina5pslnkr2782nrs039tkaio08ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIOOjq3l-YvyzQ5aGlktTDku7UsFaLk1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717449852955-41oina5pslnkr2782nrs039tkaio08ku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
