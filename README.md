@@ -9,15 +9,32 @@ UniPi Audio Stories is an Android application for listening to audio stories. Th
 - Keep track of the number of clicks on each story
 - View statistics on the most popular story
 
-## Installation
-
-To install UniPi Audio Stories, download the APK file from the latest release on the GitHub repository.
-
 ## Usage
 
 When you first open the app, you will see a list of available stories. Click on a story to start listening.
 
 To view the statistics on the most popular story, click on the "Stats" button in the top right corner of the screen.
+
+
+## Requirements
+
+* Android Studio
+* Java
+* Firebase account
+
+## Installation
+
+1. Clone the repository.
+2. Open the project in Android Studio.
+3. Connect the app to your Firebase project.
+4. Build and run the app on your device or emulator.
+
+## What I Learned
+
+* Developing an Android app using Java and Firebase.
+* Working with a real-time database.
+* Implementing user authentication.
+* Using Android Studio for app development.
 
 ## Contributing
 
